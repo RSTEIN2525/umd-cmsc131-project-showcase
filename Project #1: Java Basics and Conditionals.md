@@ -56,3 +56,4 @@ Implemented three Java console applications—**Area**, **Divisible**, and **Col
 ## Note
 
 Due to school policy, the actual source code cannot be shared in this repository. If you'd like to see code samples or discuss these projects in detail, please contact me directly.
+
