@@ -90,6 +90,7 @@ Developed a **Media Rental Manager** system in Java that simulates a simplified 
 - **Challenge**: Enforcing queue and plan-specific restrictions.  
   **Solution**: Integrated validation logic within the `Customer` class to manage queues dynamically.
 
+
 ---
 
 ## Note
